@@ -2,7 +2,7 @@
   "name": "quote_generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Jax-Man.github.io/Front-End-Development-Projects",
+  "homepage": "https://Jax-Man.github.io/Random-Quote-Generator",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.0",
     "@testing-library/dom": "^10.4.0",
